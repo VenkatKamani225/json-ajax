@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Ghost",
+        "species":"Siberian Husky",
+        "likes":["whisky","Brandy","Cocktails"],
+        "dislikes":["Beer","Vodka","Rum"]
+
+    },
+    {
+        "name":"Roger",
+        "species":"Pitbull",
+        "likes":["Mukka","Chukka"],
+        "dislikes":["Aaakulu","Alamalu"]
+    },
+    {
+        "name":"Fish",
+        "species":"Cat",
+        "likes":["TV","Milk","Water"],
+        "dislikes":["Humans"]
+    }
+]

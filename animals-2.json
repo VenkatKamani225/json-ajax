@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Tom",
+        "species":"Siberian Husky",
+        "likes":["whisky","Brandy","Cocktails"],
+        "dislikes":["Beer","Vodka","Rum"]
+
+    },
+    {
+        "name":"Jimmy",
+        "species":"Pitbull",
+        "likes":["Mukka","Chukka"],
+        "dislikes":["Aaakulu","Alamalu"]
+    },
+    {
+        "name":"Tyler",
+        "species":"Cat",
+        "likes":["TV","Milk","Water"],
+        "dislikes":["Humans"]
+    }
+]
