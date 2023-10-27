@@ -17,3 +17,5 @@ after this we send back the the XMLHttpRequest
 https://learnwebcode.github.io/json-example/animals-1.json
 https://learnwebcode.github.io/json-example/animals-2.json
 https://learnwebcode.github.io/json-example/animals-3.json
+
+**THis object has limitations. Modern methods are fetch() API and axios library**
